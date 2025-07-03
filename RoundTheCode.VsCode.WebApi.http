@@ -1,0 +1,6 @@
+@RoundTheCode.VsCode.WebApi_HostAddress = http://localhost:5036
+
+GET {{RoundTheCode.VsCode.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

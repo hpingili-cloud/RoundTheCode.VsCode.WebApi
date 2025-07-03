@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9QeCgXtt2EbUW1ZYVo+o4C0fguNZ9lbLlNd3YbpEE6E=",
+  "Source": "RoundTheCode.VsCode.WebApi",
+  "BasePath": "_content/RoundTheCode.VsCode.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
